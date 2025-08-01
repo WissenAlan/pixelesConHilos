@@ -1,0 +1,38 @@
+# depslib dependency file v1.0
+1748358293 source:f:\documetos\unlam\tercero\so\tp\ejercicio1\main.c
+	"main.h"
+	"estructuras.h"
+	"constantes.h"
+	<stdlib.h>
+	<string.h>
+	<math.h>
+	<stdbool.h>
+	<sys/stat.h>
+	<sys/types.h>
+	<dirent.h>
+	<unistd.h>
+
+1747233706 source:f:\documetos\unlam\tercero\so\tp\ejercicio1\funciones_estudiante.c
+	<stdlib.h>
+	<string.h>
+	<stdio.h>
+	"estructuras.h"
+	"constantes.h"
+	"funciones_estudiante.h"
+	<math.h>
+	<stdbool.h>
+
+1715309498 f:\documetos\unlam\tercero\so\tp\ejercicio1\estructuras.h
+
+1748205965 f:\documetos\unlam\tercero\so\tp\ejercicio1\constantes.h
+
+1747232703 f:\documetos\unlam\tercero\so\tp\ejercicio1\funciones_estudiante.h
+	"estructuras.h"
+	"constantes.h"
+
+1748356060 f:\documetos\unlam\tercero\so\tp\ejercicio1\main.h
+	"estructuras.h"
+	"constantes.h"
+	<unistd.h>
+	<stdio.h>
+
